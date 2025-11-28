@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+xgboost
+nltk
+spacy
+tqdm
+joblib
+jupyter
